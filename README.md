@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm José (aka @JoseInTheArena). Here's some "_facts_" about me 😉:
+
+- 🙋🏻‍♂️ I'm a Staff Engineering Manager @ GiHub
+
+- 🔭 I’m currently working on making web development simpler, more secure, and of higher quality for my fellow Hubbers
+
+- 👯 I follow a people-first approach to leadership and management
+
+- ⚡️♿️ I'm passionate about web performance and accessibility
+
+- 💬 Do reach out if you want to chat a bit about ☝️!
+
+- 🎺 I'm also a musician and spend part of my free time sitting at the piano or playing my trombone!
+
+- 🤪 The rest of the time, you'll find me getting in trouble 😅 at the local park with my wife and two kids
+
