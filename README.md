@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm José (aka @JoseInTheArena). Here's some "_facts_" about me 😉:
 
-- 🙋🏻‍♂️ I'm a Staff Engineering Manager @ GiHub
+- 🙋🏻‍♂️ I'm a Staff Engineering Manager @ GitHub
 
 - 🔭 I’m currently working on making web development simpler, more secure, and of higher quality for my fellow Hubbers
 
