@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm José (aka @JoseInTheArena). Here's some "_facts_" about me 😉:
 
-- 🙋🏻‍♂️ I'm a Staff Engineering Manager @ GitHub
+- 🙋🏻‍♂️ I'm a Director of Engineering @ GitHub
 
-- 🔭 I’m currently working on making web development simpler, more secure, and of higher quality for my fellow Hubbers
+- 🔭 I’m currently working on making GitHub more accessible and faster and helping make web development simpler, more secure, and of higher quality for my fellow Hubbers
 
 - 👯 I follow a people-first approach to leadership and management
 
